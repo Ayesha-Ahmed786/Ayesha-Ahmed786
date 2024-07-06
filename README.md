@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayesha-Ahmed786
 - 👀 I’m interested in coding, web development 
-- 🌱 I’m currently learning python, DSA  and javascript
+- 🌱 I’m currently learning , DSA and DBMS
 - 💞️ I’m looking to collaborate on projects related to python and front end development 
 - 📫 How to reach me, email at ayeshaahmed45678@gmail.com
 
